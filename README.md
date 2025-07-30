@@ -17,10 +17,10 @@ In addition, the following image files are included to verify the successful run
 - `unseen_img1.png`
 - `unseen_img2.png`
 
-The file `data_challenge.ipynb` can be downloaded and run directly under Jupyter notebook. The code expects the above image files to be in the same directory as `data_challenge.ipynb`.
+The file `data_challenge.ipynb` can be downloaded and run directly under Jupyter notebook on a local machine. The code expects the above image files to be in the same directory as `data_challenge.ipynb`.
 
 ## Code Sample from Another Project
 
 The file, `RL.ipynb` is a Jupyter notebook file containing one of my projects for the Artificial Intelligence course (CS182) at Harvard University in the Fall of 2023. I implemented a number of reinforcement learning algorithms in Python using OpenAI's Frozen Lake Environment as part of my course requirements.
 
-The file `RL.ipynb` can be downloaded and run directly under Jupyter notebook.
+The file `RL.ipynb` can be downloaded and run directly under Jupyter notebook on a local machine.
