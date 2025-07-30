@@ -1,4 +1,5 @@
-# DALI
+# DALI 2025 Application
+## Anusha Murali
 
 This directory contains my projects for the 2025 DALI application.
 
